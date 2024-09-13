@@ -1,60 +1,60 @@
 body {
-    color: white;
-    background: black;
-    margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
+    cor :   Branco;
+    Fundo:  preto;
+    Margem :   0Px;
+    Fonte-Família :   "Chakra Petch",  Sem serifas;
+    Margem-faixo :   100Px;
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
+    Borda-baixo :   Sólido 2Px RGB(42,  122,  228);
+    Acondicionamento:  20Px;
+     Tamanho da fonte:  32 px;
+    cor:  RGB(32,  2,  2,  200,  208);
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
+    Fundo :   RGB(284,  196,  213);
+    Padding-Bottom:  80Px;
+    Padding-top:  80Px;
+    Exibição:  Flexão;
+    Justificar-Conteúdo:  Centro;
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    Margem-direita :   5%;
 }
 
-h1 {
-    font-size: 40px;
+H1h1 {
+     Tamanho da fonte:  40 px;
 }
 
 p {
-    font-size: 20px;
+    Tamanho da fonte:  20px;
 }
 
-.categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
+.categoria-videos  {
+    Exibição :   Flexão;
+    Transbordamento-x:  Auto;
+    lacuna:  10Px;
 }
 
-.categoria {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: 50px;
+.categoria  {
+    Estofamento-esquerda :   20Px;
+    Padding-direita:  20Px;
+    Margem-topo:  50Px;
 }
 
-.categoria-videos img {
-    opacity: 0.5;
-    height: 200px;
+.categoria-videos img  {
+    Opacidade :   0.5;
+ Altura: 200 Px;
 }
 
-.categoria-videos img:hover {
-    opacity: 1.0;
-    border: 3px solid green;
+.categoria-videos img:Passa-te a pairar. {
+    Opacidade :   1.0;
+     fronteira:  3 Px Solo Verde;
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+     cor :    RGB(42,  222,  828);
 }
